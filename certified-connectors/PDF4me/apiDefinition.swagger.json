@@ -6847,7 +6847,7 @@
         "consumes": [
           "application/json"
         ],
-        "description": "Create EPC QR Code.",
+        "description": "Generate EPC QR Code for SEPA Payment. https://dev.pdf4me.com/power-automate/documentation/actions/create-epc-qrcode/",
         "operationId": "CreateEpcQrCode_V1",
         "parameters": [
           {
@@ -6873,7 +6873,7 @@
                       "type": "string",
                       "description": "You can specify the EPC version.",
                       "title": "Specify EPC version",
-                      "x-ms-visibility": "internal",
+                      "x-ms-visibility": "important",
                       "default": "V2",
                       "enum": [
                         "V1",
@@ -6971,8 +6971,7 @@
                     "serviceTag",
                     "version",
                     "identificationCode",
-                    "currency",
-                    "bic",
+                    "currency",                    
                     "amount",
                     "receiverName",
                     "iban"
@@ -7014,7 +7013,7 @@
         "x-ms-api-annotation": {
           "family": "CreateEpcQrCode1",
           "revision": 1,
-          "status": "Preview"
+          "status": "Production"
         }
       }
     },
