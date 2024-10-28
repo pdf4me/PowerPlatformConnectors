@@ -6908,7 +6908,7 @@
                       ]
                     },
                     "bic": {
-                      "description": "You can specify beneficiary's BIC.",
+                      "description": "You can specify beneficiary's BIC. BIC is mandatory only for EPC version V1",
                       "title": "Beneficiary's BIC",
                       "type": "string",
                       "x-ms-visibility": "important"
