@@ -659,7 +659,7 @@
         "summary": "Generate EPC QR Code for SEPA Payment",
         "x-ms-visibility": "important",
         "x-ms-api-annotation": {
-          "family": "CreateEpcQrCode",
+          "family": "CreateEpcQrCode1",
           "revision": 1,
           "status": "Production"
         }

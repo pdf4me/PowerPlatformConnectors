@@ -6937,7 +6937,7 @@
         "consumes": [
           "application/json"
         ],
-        "description": "Create EPC QR Code.",
+        "description": "Generate EPC QR Code for SEPA Payment. https://dev.pdf4me.com/power-automate/documentation/actions/create-epc-qrcode/",
         "operationId": "CreateEpcQrCode_V1",
         "parameters": [
           {
@@ -7101,12 +7101,12 @@
         "summary": "Generate EPC QR Code for SEPA Payment",
         "x-ms-visibility": "important",
         "x-ms-api-annotation": {
-          "family": "CreateEpcQrCode1",
+          "family": "CreateEpcQrCode",
           "revision": 1,
           "status": "Production"
         }
       }
-    }, 
+    },
     "/v2/FlowV2/GetCallStatus": {
       "get": {
         "responses": {
