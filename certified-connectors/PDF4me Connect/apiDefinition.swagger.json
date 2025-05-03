@@ -1629,7 +1629,7 @@
             "schema": {
               "properties": {
                 "splitedDocuments": {
-                  "description": "splitedDocuments",
+                  "description": "Splited Documents",
                   "items": {
                     "properties": {
                       "fileName": {
@@ -1659,7 +1659,7 @@
         "x-ms-api-annotation": {
           "family": "SplitDocument",
           "revision": 2,
-          "status": "Preview"
+          "status": "Production"
         }
       }
     },
@@ -5411,7 +5411,6 @@
                   "properties": {
                     "Name": {
                       "description": "Name of the file",
-                      "format": "byte",
                       "title": "File Name",
                       "type": "string",
                       "x-ms-visibility": "important"
@@ -5427,6 +5426,7 @@
                     "properties": {
                       "docContent": {
                         "description": "The content of the attachment file",
+                        "format": "byte",
                         "title": "Attachment File Content",
                         "type": "string",
                         "x-ms-visibility": "important"
@@ -7274,7 +7274,7 @@
         "x-ms-api-annotation": {
           "family": "RotateImage1",
           "revision": 1,
-          "status": "Preview"
+          "status": "Production"
         }
       }
     },
@@ -7396,7 +7396,7 @@
         "x-ms-api-annotation": {
           "family": "ReplaceTextWithImageInWord1",
           "revision": 1,
-          "status": "Preview"
+          "status": "Production"
         }
       }
     },
@@ -7483,7 +7483,7 @@
         "x-ms-api-annotation": {
           "family": "ImageExtractText",
           "revision": 2,
-          "status": "Preview"
+          "status": "Production"
         }
       }
     },
@@ -7612,7 +7612,7 @@
         "x-ms-api-annotation": {
           "family": "GetImageMetadata",
           "revision": 2,
-          "status": "Preview"
+          "status": "Production"
         }
       }
     },
@@ -7779,7 +7779,7 @@
         "x-ms-api-annotation": {
           "family": "AddTextWatermarkToImage",
           "revision": 2,
-          "status": "Preview"
+          "status": "Production"
         }
       }
     },
@@ -7914,7 +7914,7 @@
         "x-ms-api-annotation": {
           "family": "AddImageWatermarkToImage",
           "revision": 1,
-          "status": "Preview"
+          "status": "Production"
         }
       }
     },
@@ -7987,7 +7987,7 @@
         "x-ms-api-annotation": {
           "family": "ReadBarcodeFromImage",
           "revision": 2,
-          "status": "Preview"
+          "status": "Production"
         }
       }
     },
