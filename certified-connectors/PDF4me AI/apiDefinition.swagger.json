@@ -221,6 +221,7 @@
           "type": "string",
           "format": "byte",
           "description": "The content of the invoice file.",
+          "title": "File Content",
           "x-ms-visibility": "important"
         },
         "Document": {
@@ -353,6 +354,7 @@
           "type": "string",
           "format": "byte",
           "description": "The content of the contract file.",
+          "title": "File Content",
           "x-ms-visibility": "important"
         },
         "Document": {
@@ -441,6 +443,7 @@
         "docContent": {
           "type": "string",
           "format": "byte",
+          "title": "File Content",
           "description": "The content of the health card file.",
           "x-ms-visibility": "important"
         },
