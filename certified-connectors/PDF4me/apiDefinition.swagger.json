@@ -8,7 +8,7 @@
     },
     "description": "PDF4me gives you all functionalities around PDF, e.g. convert, merge, split, make PDF/A compatible, optimize, protect, unlock, do OCR, create watermarks, create images, rotate PDF, attach barcodes.",
     "title": "PDF4me",
-    "version": "6.7"
+    "version": "6.8"
   },
   "host": "api.pdf4me.com",
   "basePath": "/",
@@ -3379,7 +3379,8 @@
                       "Datamatrix",
                       "Code128",
                       "Code39",
-                      "Pdf417"
+                      "Pdf417",
+                      "Code93"
                     ]
                   },
                   "type": "array",
