@@ -7,7 +7,7 @@
     "contact": {
       "name": "PDF4me Support",
       "email": "support@pdf4me.com",
-      "url": "https://support.pdf4me.com"
+      "url": "https://dev.pdf4me.com"
     },
     "license": {
       "name": "Requires a 'PDF4me' subscription",
@@ -47,7 +47,7 @@
           "Excel Header & Footer"
         ],
         "summary": "Excel - Add Text Header Footer",
-        "description": "Add customizable text headers and footers to Excel worksheets with full formatting control - https://support.pdf4me.com/excel/add-text-header-footer",
+        "description": "Add customizable text headers and footers to Excel worksheets with full formatting control - https://docs.pdf4me.com/integrations/power-automate/excel/add-text-header-footer",
         "operationId": "AddTextHeaderFooter",
         "x-ms-visibility": "important",
         "parameters": [
@@ -89,7 +89,7 @@
           "Excel Header & Footer"
         ],
         "summary": "Excel - Add Image Header Footer",
-        "description": "Add image-based headers and footers to Excel worksheets with precise positioning and margin control - https://support.pdf4me.com/excel/add-image-header-footer",
+        "description": "Add image-based headers and footers to Excel worksheets with precise positioning and margin control - https://docs.pdf4me.com/integrations/power-automate/excel/add-image-header-footer",
         "operationId": "AddImageHeaderFooter",
         "x-ms-visibility": "important",
         "parameters": [
@@ -137,7 +137,7 @@
           "Excel Header & Footer"
         ],
         "summary": "Excel - Remove Header Footer",
-        "description": "Remove specific header and footer elements from Excel worksheets - https://support.pdf4me.com/excel/remove-header-footer",
+        "description": "Remove specific header and footer elements from Excel worksheets - https://docs.pdf4me.com/integrations/power-automate/excel/remove-header-footer",
         "operationId": "RemoveHeaderFooter",
         "x-ms-visibility": "important",
         "parameters": [
@@ -179,7 +179,7 @@
           "Excel Data Manipulation"
         ],
         "summary": "Excel - Add Rows",
-        "description": "Insert new rows into Excel worksheets using JSON data with automatic data type conversion and formatting - https://support.pdf4me.com/excel/add-rows",
+        "description": "Insert new rows into Excel worksheets using JSON data with automatic data type conversion and formatting - https://docs.pdf4me.com/integrations/power-automate/excel/excel/add-rows",
         "operationId": "AddRows",
         "x-ms-visibility": "important",
         "parameters": [
@@ -221,7 +221,7 @@
           "Excel Data Manipulation"
         ],
         "summary": "Excel - Update Rows",
-        "description": "Update existing rows in Excel worksheets with JSON data and precise cell targeting - https://support.pdf4me.com/excel/update-rows",
+        "description": "Update existing rows in Excel worksheets with JSON data and precise cell targeting - https://docs.pdf4me.com/integrations/power-automate/excel/update-rows",
         "operationId": "UpdateRows",
         "x-ms-visibility": "important",
         "parameters": [
@@ -263,7 +263,7 @@
           "Excel Data Manipulation"
         ],
         "summary": "Excel - Delete Rows",
-        "description": "Delete specific rows from Excel worksheets using row ranges - https://support.pdf4me.com/excel/delete-rows",
+        "description": "Delete specific rows from Excel worksheets using row ranges - https://docs.pdf4me.com/integrations/power-automate/excel/delete-rows",
         "operationId": "DeleteRows",
         "x-ms-visibility": "important",
         "parameters": [
@@ -305,7 +305,7 @@
           "Excel Data Extraction"
         ],
         "summary": "Excel - Extract Rows",
-        "description": "Extract specific rows from Excel worksheets and convert to JSON format with advanced filtering options - https://support.pdf4me.com/excel/extract-rows",
+        "description": "Extract specific rows from Excel worksheets and convert to JSON format with advanced filtering options - https://docs.pdf4me.com/integrations/power-automate/excel/extract-rows",
         "operationId": "ExtractRows",
         "x-ms-visibility": "important",
         "parameters": [
@@ -347,7 +347,7 @@
           "Excel Worksheet Management"
         ],
         "summary": "Excel - Extract Worksheets",
-        "description": "Extract specific worksheets from Excel workbooks and return as JSON data - https://support.pdf4me.com/excel/extract-worksheets",
+        "description": "Extract specific worksheets from Excel workbooks and return as JSON data - https://docs.pdf4me.com/integrations/power-automate/excel/extract-worksheets",
         "operationId": "ExtractWorksheet",
         "x-ms-visibility": "important",
         "parameters": [
@@ -389,7 +389,7 @@
           "Excel Worksheet Management"
         ],
         "summary": "Excel - Delete Worksheets",
-        "description": "Delete specific worksheets from Excel workbooks - https://support.pdf4me.com/excel/delete-worksheets",
+        "description": "Delete specific worksheets from Excel workbooks - https://docs.pdf4me.com/integrations/power-automate/excel/delete-worksheets",
         "operationId": "DeleteWorksheet",
         "x-ms-visibility": "important",
         "parameters": [
@@ -431,7 +431,7 @@
           "Excel File Operations"
         ],
         "summary": "Excel - Merge Files",
-        "description": "Merge multiple Excel files into a single workbook with support for various output formats - https://support.pdf4me.com/excel/merge-files",
+        "description": "Merge multiple Excel files into a single workbook with support for various output formats - https://docs.pdf4me.com/integrations/power-automate/excel/merge-files",
         "operationId": "MergeFiles",
         "x-ms-visibility": "important",
         "parameters": [
@@ -473,7 +473,7 @@
           "Excel Data Manipulation"
         ],
         "summary": "Excel - Merge Rows",
-        "description": "Merge rows across multiple worksheets using key columns for data consolidation - https://support.pdf4me.com/excel/merge-rows",
+        "description": "Merge rows across multiple worksheets using key columns for data consolidation - https://docs.pdf4me.com/integrations/power-automate/excel/merge-rows",
         "operationId": "MergeRows",
         "x-ms-visibility": "important",
         "parameters": [
@@ -515,7 +515,7 @@
           "Excel Watermarking"
         ],
         "summary": "Excel - Add Text Watermark",
-        "description": "Add customizable text watermarks to Excel worksheets with advanced positioning and styling options - https://support.pdf4me.com/excel/add-watermark",
+        "description": "Add customizable text watermarks to Excel worksheets with advanced positioning and styling options - https://docs.pdf4me.com/integrations/power-automate/excel/add-watermark",
         "operationId": "AddWatermark",
         "x-ms-visibility": "important",
         "parameters": [
@@ -557,7 +557,7 @@
           "Excel Watermarking"
         ],
         "summary": "Excel - Remove Watermark",
-        "description": "Remove watermarks from Excel worksheets by ID or from all worksheets - https://support.pdf4me.com/excel/remove-watermark",
+        "description": "Remove watermarks from Excel worksheets by ID or from all worksheets - https://docs.pdf4me.com/integrations/power-automate/excel/remove-watermark",
         "operationId": "DeleteWatermark",
         "x-ms-visibility": "important",
         "parameters": [
@@ -599,7 +599,7 @@
           "Excel Text Processing"
         ],
         "summary": "Excel - Replace Text",
-        "description": "Find and replace text in Excel worksheets with advanced pattern matching and formatting options - https://support.pdf4me.com/excel/replace-text",
+        "description": "Find and replace text in Excel worksheets with advanced pattern matching and formatting options - https://docs.pdf4me.com/integrations/power-automate/excel/replace-text",
         "operationId": "ReplaceText",
         "x-ms-visibility": "important",
         "parameters": [
@@ -641,7 +641,7 @@
           "Excel Security"
         ],
         "summary": "Excel - Secure File",
-        "description": "Add password protection and security restrictions to Excel files - https://support.pdf4me.com/excel/secure-excel",
+        "description": "Add password protection and security restrictions to Excel files - https://docs.pdf4me.com/integrations/power-automate/excel/secure-excel",
         "operationId": "SecureExcel",
         "x-ms-visibility": "important",
         "parameters": [
@@ -683,7 +683,7 @@
           "Excel Security"
         ],
         "summary": "Excel - Unlock File",
-        "description": "Remove password protection and security restrictions from Excel files - https://support.pdf4me.com/excel/unlock-excel",
+        "description": "Remove password protection and security restrictions from Excel files - https://docs.pdf4me.com/integrations/power-automate/excel/unlock-excel",
         "operationId": "UnlockExcel",
         "x-ms-visibility": "important",
         "parameters": [
@@ -725,7 +725,7 @@
           "Excel Conversion"
         ],
         "summary": "CSV - Parse to JSON",
-        "description": "Parse CSV files and convert to Excel format with customizable delimiters and formatting - https://support.pdf4me.com/excel/parse-csv",
+        "description": "Parse CSV files and convert to Excel format with customizable delimiters and formatting - https://docs.pdf4me.com/integrations/power-automate/excel/excel/parse-csv",
         "operationId": "ParseCsv",
         "x-ms-visibility": "important",
         "parameters": [
