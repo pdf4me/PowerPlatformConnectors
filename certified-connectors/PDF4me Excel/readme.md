@@ -2,17 +2,48 @@ Title: PDF4me Excel
 
 Description: Enhance your workflows with the powerful capabilities of the PDF4me Excel Connector. Seamlessly integrate advanced Microsoft Excel, Spreadsheet features, and more to drive better efficiency and intelligence across your processes. 
 
-Publisher: PDF4me Ynoox GmbH
+Publisher: Ynoox GmbH
 
 Prerequisites : You need a trial or an active/valid subscription in order to try our AI features.
 
 Supported Operations
 
-Operation 1 : AI - Invoice Parser","This action collects and returns detailed information about the provided invoice file.,
+Operation 1 : Excel - Add Text Header Footer","Add customizable text headers and footers to Excel worksheets with full formatting control https://docs.pdf4me.com/integrations/power-atomate/excel/add-text-header-footer/,
 
-Operation 2 : AI - Healthcard Parser","This action collects and returns detailed information about the provided Health card file.,
+Operation 2 : Excel - Add Image Header Footer","Add image-based headers and footers to Excel worksheets with precise positioning and margin control https://docs.pdf4me.com/integrations/power-atomate/excel/add-image-header-footer/,
 
-Operation 3 : AI - Contract Parser","This action collects and returns detailed information about the provided Contract file,
+Operation 3 : Excel - Remove Header Footer","Remove specific header and footer elements from Excel worksheets https://docs.pdf4me.com/integrations/power-atomate/excel/remove-header-footer/,
+
+Operation 4 : Excel - Add Rows","Insert new rows into Excel worksheets using JSON data with automatic data type conversion and formatting https://docs.pdf4me.com/integrations/power-atomate/excel/actions/add-rows/,
+
+Operation 5 : Excel - Update Rows","Update existing rows in Excel worksheets with JSON data and precise cell targeting https://docs.pdf4me.com/integrations/power-atomate/excel/actions/update-rows/,
+
+Operation 6 : Excel - Delete Rows","Delete specific rows from Excel worksheets using row ranges https://docs.pdf4me.com/integrations/power-atomate/excel/delete-rows/,
+
+Operation 7 : Excel -Extract Rows","Extract specific rows from Excel worksheets and convert to JSON format with advanced filtering options https://docs.pdf4me.com/integrations/power-atomate/excel/extract-rows/,
+
+
+Operation 8 : Excel -Extract Worksheets","Extract specific worksheets from Excel workbooks and return as JSON data https://docs.pdf4me.com/integrations/power-atomate/excel/extract-worksheets/,
+
+Operation 9 : Excel -Delete Worksheets","Delete specific worksheets from Excel workbooks https://docs.pdf4me.com/integrations/power-atomate/excel/delete-worksheets/,
+
+Operation 10 : Excel - Merge Files","Merge multiple Excel files into a single workbook with support for various output formats https://docs.pdf4me.com/integrations/power-atomate/excel/merge-files/,
+
+Operation 11 : Excel - Merge Rows","Merge rows across multiple worksheets using key columns for data consolidation https://docs.pdf4me.com/integrations/power-atomate/excel/merge-rows/,
+
+Operation 12 : Excel - Add Text Watermark","Add customizable text watermarks to Excel worksheets with advanced positioning and styling options https://docs.pdf4me.com/integrations/power-atomate/excel/add-watermark/,
+
+
+Operation 13 : Excel - Remove Watermark","Remove watermarks from Excel worksheets by ID or from all worksheets https://docs.pdf4me.com/integrations/power-atomate/excel/remove-watermark/,
+
+Operation 14 : Excel - Replace Text","Find and replace text in Excel worksheets with advanced pattern matching and formatting options https://docs.pdf4me.com/integrations/power-atomate/excel/replace-text/,
+
+Operation 15 : Excel - Secure File","Add password protection and security restrictions to Excel files https://docs.pdf4me.com/integrations/power-atomate/excel/secure-excel/,
+
+Operation 16 : Excel - Unlock File","Remove password protection and security restrictions from Excel files https://docs.pdf4me.com/integrations/power-atomate/excel/unlock-excel/,
+
+Operation 17 : CSV - Parse to JSON","Parse CSV files and convert to Excel format with customizable delimiters and formatting https://docs.pdf4me.com/integrations/power-atomate/excel/parse-csv/,
+
 
 Obtaining Credentials : To use this integration, you need to have an account on the PDF4me Developer Portal. Follow steps below to get your Subscription Key.
 
