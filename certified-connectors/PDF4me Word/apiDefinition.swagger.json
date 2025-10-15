@@ -1957,11 +1957,11 @@
     },
     {
       "propertyName": "Privacy policy",
-      "propertyValue": "https://www.pdf4me.com/privacy-policy"
+      "propertyValue": "https://www.dev.pdf4me.com/privacy-policy"
     },
     {
       "propertyName": "Categories",
-      "propertyValue": "Content and Files;Productivity;Business Management"
+      "propertyValue": "Content and Files;Productivity"
     }
   ]
 }
